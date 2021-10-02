@@ -10,7 +10,13 @@
 nav{background-color:yellow}
 
 
-h2
- {background-color:hotpink}
+#aboutus,#Popularbikes,#topbrands,#bodytype
+ {background-color:
+    hotpink}
 
+
+
+.popularbikes,.topbrands,.bodytype
+{background-color:rgb(242, 255, 233)}
  
+
