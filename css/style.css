@@ -1,1 +1,16 @@
-*{font-size: medium;}
+#hero-section
+{background-image: url(https://media.istockphoto.com/photos/motocross-racer-rides-through-a-puddle-picture-id492789824?s=612x612);}
+
+#Title
+{
+    font-family:-permanent marker ; font-size:x larger; font-weight:bold; background-color: red;
+    font-style: italic; color:black;
+}
+
+nav{background-color:yellow}
+
+
+h2
+ {background-color:hotpink}
+
+ 
