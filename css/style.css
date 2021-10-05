@@ -1,5 +1,5 @@
 #hero-section
-{background-image: url(https://media.istockphoto.com/photos/motocross-racer-rides-through-a-puddle-picture-id492789824?s=612x612);}
+{background-color:rgb(206, 179, 231);}
 
 #Title
 {
@@ -18,5 +18,43 @@ nav{background-color:yellow}
 
 .popularbikes,.topbrands,.bodytype
 {background-color:rgb(242, 255, 233)}
- 
 
+#Aboutus{background-color:rgb(155, 245, 155);opacity:0.9}
+ 
+#contactus 
+{
+    background-image: url("./thank-you-gab0fd61fa_1280.jpg"); color:white;
+}
+
+#contactus h3
+{background-color: rgb(161, 196, 109); 
+    width:15rem;
+    height: 22px;
+color:black;
+opacity:0.7}
+
+#contactus p
+{background-color: rgb(248, 141, 200);
+    width:15rem;
+    height: 22px;
+    color:black}
+
+#faq
+{background-image: url(./seek-g5392441e4_1280.jpg);
+    width:15rem;
+    height: 22px; 
+    
+     color:rgb(179, 6, 6);
+    background-position:top left;
+background-repeat: repeat;
+
+}
+
+#faq h3
+{
+    background-color: rgb(177, 138, 214); 
+    weight: 10px;
+color:rgb(209, 7, 7) ;
+
+
+}
