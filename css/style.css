@@ -1,29 +1,83 @@
 #hero-section
-{background-color:rgb(206, 179, 231);}
+{background-color:black;
+}
+
+#hero-section video
+{border:3px solid #ff1616;
+border-radius:  20px;
+padding: 1px;
+margin: 5
+px;}
+
+
 
 #Title
 {
-    font-family:-permanent marker ; font-size:x larger; font-weight:bold; background-color: red;
-    font-style: italic; color:black;
+    font-family:-permanent marker ; font-size: 30px; font-weight:bold; background-color: #00ff9c;
+    font-style: italic; color:#1714e7;
+    width: 320px;
+    height: 30px;
+    padding: 15px;
+   
+    Border: 2px solid;
+    border-radius: 20px;
+    margin: 10px 20px;
+    
+    
+    
 }
 
-nav{background-color:yellow}
+header
+{background-color:#ff30d770;
+  padding: 2px
+}
+
+
+.navigation
+{width: 500px;
+padding:2px;
+margin: 3px ;
+}
+
+
+#search
+{
+    width: 150px;
+    padding: 3px;
+ 
+}
 
 
 #aboutus,#Popularbikes,#topbrands,#bodytype
- {background-color:
-    hotpink}
+ {background-color: hotpink;
+padding: 2px 20px;
+margin:5px 0;}
 
 
 
 .popularbikes,.topbrands,.bodytype
 {background-color:rgb(242, 255, 233)}
 
-#Aboutus{background-color:rgb(155, 245, 155);opacity:0.9}
+#Aboutus img
+{
+border: 5px solid ;
+border-radius:5px;
+margin: 10px;}
+
+#Aboutus p
+{
+    margin: 15px;
+}
+
  
+
+
+
 #contactus 
 {
     background-image: url("./thank-you-gab0fd61fa_1280.jpg"); color:white;
+    padding: 5px;
+    margin: 10px;
 }
 
 #contactus h3
@@ -31,13 +85,21 @@ nav{background-color:yellow}
     width:15rem;
     height: 22px;
 color:black;
+padding:2px 5px;
 opacity:0.7}
 
 #contactus p
 {background-color: rgb(248, 141, 200);
     width:15rem;
     height: 22px;
-    color:black}
+    color:black;
+padding:2px 5px}
+
+#contactus label
+{padding:2px;
+ margin:2px;}
+
+
 
 #faq
 {background-image: url(./seek-g5392441e4_1280.jpg);
