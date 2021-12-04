@@ -1,0 +1,24 @@
+{
+  "name": "vehcle-information",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snehal5101/Vehicle-Information.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Snehal5101/Vehicle-Information/issues"
+  },
+  "homepage": "https://github.com/Snehal5101/Vehicle-Information#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
